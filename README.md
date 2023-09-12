@@ -1,4 +1,4 @@
-### Hi there friends, My name is Poorva 👋
+### Hello, My name is Poorva 👋
 
 <!--
 **poorva-patidar/poorva-patidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
